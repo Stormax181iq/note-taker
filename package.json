@@ -1,0 +1,17 @@
+{
+  "name": "note-taking-app",
+  "version": "1.0.0",
+  "description": "A simple note-taking app",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "note-taking"
+  ],
+  "author": "stormax181iq",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
